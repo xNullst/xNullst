@@ -2,11 +2,6 @@
 <h3 align="center">A Random dude</h3>
 
 
-
-<h3 align="left">To Contact with me: nullst@private1337.8shield.net</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a> </p>
 
